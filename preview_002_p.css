@@ -28,7 +28,7 @@ div#e27             {
 	width           : 604.50pt;
 	height          :  18.75pt;
 	}
-h6#e26              { /* GMB Group */
+h6#e26              { /* Dana Node */
 	text-align      : left;
 	position        : absolute;
 	left            :  34.50pt;
@@ -36,7 +36,7 @@ h6#e26              { /* GMB Group */
 	width           : 228.00pt;
 	height          :  12.00pt;
 	}
-div#e25             { /* GMB Is a  group of compa... */
+div#e25             { /* Dana Node */
 	font            : 12pt '@Arial Unicode MS';
 	text-align      : left;
 	position        : absolute;
@@ -45,7 +45,7 @@ div#e25             { /* GMB Is a  group of compa... */
 	width           : 606.00pt;
 	height          :  88.50pt;
 	}
-div#e24             { /* Cristobal Rodriguez   , ... */
+div#e24             { /*   , ... */
 	position        : absolute;
 	left            :  30.00pt;
 	top             : 529.50pt;
@@ -94,7 +94,7 @@ div#e19             { /* Products */
 	width           :  69.00pt;
 	height          :  19.50pt;
 	}
-div#e18             { /* SPECIALIZED INDUSTRIAL S... */
+div#e18             { /* .. */
 	background      : transparent url(images/preview002009.jpg) no-repeat top left;
 	position        : absolute;
 	left            : 203.25pt;
@@ -110,7 +110,7 @@ span#e17            { /* images/preview002008.jpg */
 	width           : 132.00pt;
 	height          :  77.25pt;
 	}
-div#e16             { /* Miguel Angel Càrdenas \ ... */
+div#e16             { /*  \ ... */
 	font            : 12pt '@Arial Unicode MS';
 	color           : #000080;
 	text-align      : left;
@@ -120,11 +120,11 @@ div#e16             { /* Miguel Angel Càrdenas \ ... */
 	width           : 197.25pt;
 	height          :  48.00pt;
 	}
-a#a16               { /* Miguel Angel Càrdenas \ ... */
+a#a16               { /*  */
 	font            : 12pt '@Arial Unicode MS';
 	color           : #000080;
 	}
-div#e15             { /* Miguel has more than 25 ... */
+div#e15             { /*  */
 	font            : 10pt '@Arial Unicode MS';
 	text-align      : left;
 	position        : absolute;
@@ -141,7 +141,7 @@ span#e14            { /* images/preview002007.jpg */
 	width           :  51.00pt;
 	height          :  51.75pt;
 	}
-div#e13             { /* Jose has more than 25 ye... */
+div#e13             { /* */
 	font            : 10pt '@Arial Unicode MS';
 	text-align      : left;
 	position        : absolute;
@@ -150,7 +150,7 @@ div#e13             { /* Jose has more than 25 ye... */
 	width           : 342.00pt;
 	height          :  69.75pt;
 	}
-div#e12             { /* Jose. I. Hernandez\ \DR ... */
+div#e12             { /* */
 	font            : 12pt '@Arial Unicode MS';
 	color           : #000080;
 	text-align      : left;
@@ -160,11 +160,11 @@ div#e12             { /* Jose. I. Hernandez\ \DR ... */
 	width           : 210.00pt;
 	height          :  63.00pt;
 	}
-a#a12               { /* Jose. I. Hernandez\ \DR ... */
+a#a12               { /*  */
 	font            : 12pt '@Arial Unicode MS';
 	color           : #000080;
 	}
-div#e11             { /* Rodrigo has more than 22... */
+div#e11             { /* */
 	font            : 10pt '@Arial Unicode MS';
 	text-align      : left;
 	position        : absolute;
@@ -173,43 +173,7 @@ div#e11             { /* Rodrigo has more than 22... */
 	width           : 342.00pt;
 	height          :  56.25pt;
 	}
-div#e10             { /* Rodrigo Gutierrez\ \Engi... */
-	font            : 12pt '@Arial Unicode MS';
-	color           : #000080;
-	text-align      : left;
-	position        : absolute;
-	left            :  81.00pt;
-	top             : 308.25pt;
-	width           : 210.00pt;
-	height          :  65.25pt;
-	}
-a#a10               { /* Rodrigo Gutierrez\ \Engi... */
-	font            : 12pt '@Arial Unicode MS';
-	color           : #000080;
-	}
-div#e9              { /* Ali has more than 25 yea... */
-	font            : 10pt '@Arial Unicode MS';
-	text-align      : left;
-	position        : absolute;
-	left            : 295.50pt;
-	top             : 378.75pt;
-	width           : 342.00pt;
-	height          :  69.75pt;
-	}
-div#e8              { /* Ali Farhadi\ \Marketing ... */
-	font            : 12pt '@Arial Unicode MS';
-	color           : #000080;
-	text-align      : left;
-	position        : absolute;
-	left            :  83.25pt;
-	top             : 379.50pt;
-	width           : 210.00pt;
-	height          :  63.00pt;
-	}
-a#a8                { /* Ali Farhadi\ \Marketing ... */
-	font            : 12pt '@Arial Unicode MS';
-	color           : #000080;
-	}
+
 span#e7             { /* images/preview002006.jpg */
 	background      : transparent url(images/preview002006.jpg) no-repeat top left;
 	position        : absolute;
@@ -250,20 +214,7 @@ span#e3             { /* images/preview002002.jpg */
 	width           :  53.25pt;
 	height          :  55.50pt;
 	}
-div#e2              { /* Luis Paredes\ \General D... */
-	font            : 12pt '@Arial Unicode MS';
-	color           : #000080;
-	text-align      : left;
-	position        : absolute;
-	left            :  82.50pt;
-	top             : 446.25pt;
-	width           : 210.00pt;
-	height          :  65.25pt;
-	}
-a#a2                { /* Luis Paredes\ \General D... */
-	font            : 12pt '@Arial Unicode MS';
-	color           : #000080;
-	}
+
 span#e1             { /* images/preview002001.jpg */
 	background      : transparent url(images/preview002001.jpg) no-repeat top left;
 	position        : absolute;
