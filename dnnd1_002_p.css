@@ -1,0 +1,65 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc03               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+div#e5              {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   0.00pt;
+	width           : 660.00pt;
+	height          : 600.00pt;
+	}
+h6#e4               { /* Dnnd */
+	text-align      : left;
+	position        : absolute;
+	left            :  31.50pt;
+	top             : 576.00pt;
+	width           : 228.00pt;
+	height          :  12.00pt;
+	}
+div#e3              { /* Back to Home */
+	text-align      : center;
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 468.75pt;
+	top             :  36.00pt;
+	width           : 166.50pt;
+	height          :  21.00pt;
+	}
+span#e2             { /* images/dnnd1002001.jpg */
+	background      : transparent url(images/dnnd1002001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   8.25pt;
+	top             :  63.00pt;
+	width           : 649.50pt;
+	height          : 359.25pt;
+	}
+div#e1              { /* DANA NODE POOL\ \DNND */
+	position        : absolute;
+	left            : 165.00pt;
+	top             :  15.00pt;
+	width           : 330.75pt;
+	height          :  60.75pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 675.00pt;
+	height          : 825.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #d6d6d6;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
