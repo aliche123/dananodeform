@@ -2,140 +2,236 @@
 
 
 .cc01               { /* Common */
-	font            : 14pt 'Arial', Helvetica, sans-serif;
+	font            : 24pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
 	}
 .cc02               { /* Common */
 	font            : 24pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
+	text-align      : center;
 	}
-.cc03               { /* Common */
-	font            : 12pt 'Arial', Helvetica, sans-serif;
-	color           : #000000;
-	}
-div#e16             {
+div#e19             {
 	font            : 10pt 'Times New Roman', Book, Georgia, serif;
 	text-align      : left;
 	position        : absolute;
 	left            :   7.50pt;
 	top             :   0.00pt;
 	width           : 660.00pt;
-	height          : 525.00pt;
+	height          : 600.00pt;
 	}
-div#e15             { /* To delegate:\ \1- Open f... */
+em#e18              { /* To delegate:\ \1- Open f... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
 	position        : absolute;
-	left            :  24.00pt;
-	top             : 321.00pt;
+	left            :  30.00pt;
+	top             : 427.50pt;
 	width           : 473.25pt;
-	height          :  38.25pt;
+	height          :  33.75pt;
 	}
-div#e14             { /* Dana Node Pool\ */
-	background      : transparent url(images/preview001004.jpg) no-repeat top left;
-	position        : absolute;
-	left            : 204.00pt;
-	top             :  12.75pt;
-	width           : 275.25pt;
-	height          :  30.00pt;
+a#a18               { /* To delegate:\ \1- Open f... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
 	}
-span#e13            { /* images/preview001003.jpg */
-	background      : transparent url(images/preview001003.jpg) no-repeat top left;
+span#e17            { /* images/dnnd1001003.jpg */
+	background      : transparent url(images/dnnd1001003.jpg) no-repeat top left;
 	position        : absolute;
-	left            :  29.25pt;
-	top             :  39.75pt;
-	width           : 616.50pt;
+	left            :  30.00pt;
+	top             :  45.00pt;
+	width           : 596.25pt;
 	height          : 162.00pt;
 	}
-div#e12             { /* Highly available\ \Secur... */
+div#e16             { /* Highly available\ \Secur... */
 	position        : absolute;
-	left            :  42.00pt;
-	top             :  51.00pt;
+	left            :  34.50pt;
+	top             :  75.75pt;
 	width           : 196.50pt;
 	height          :  86.25pt;
 	}
-div#e11             { /* Let Us Delegate to Dana ... */
-	background      : transparent url(images/preview001002.jpg) no-repeat top left;
+div#e15             { /* Let Us Delegate to Dana ... */
+	background      : transparent url(images/dnnd1001002.jpg) no-repeat top left;
 	position        : absolute;
-	left            : 145.50pt;
-	top             : 168.75pt;
+	left            : 108.00pt;
+	top             : 179.25pt;
 	width           : 447.75pt;
 	height          :  42.00pt;
 	}
-div#e10             { /* Pool ID:  52ffc8b767d552... */
+em#e14              { /* Pool ID:  52ffc8b767d552... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
 	position        : absolute;
 	left            :  54.75pt;
-	top             : 215.25pt;
+	top             : 220.50pt;
 	width           : 546.00pt;
 	height          :  16.50pt;
 	}
-div#e9              { /* Pool Ticker:  DNND */
+a#a14               { /* Pool ID:  52ffc8b767d552... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	}
+em#e13              { /* Pool Ticker:  DNND */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
 	position        : absolute;
-	left            :  54.75pt;
-	top             : 236.25pt;
+	left            :  52.50pt;
+	top             : 247.50pt;
 	width           : 546.00pt;
 	height          :  16.50pt;
 	}
-div#e8              { /* Pool Location: Indiana U... */
+a#a13               { /* Pool Ticker:  DNND */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	}
+em#e12              { /* Pool Location: Indiana U... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
 	position        : absolute;
-	left            :  55.50pt;
-	top             : 255.75pt;
+	left            :  52.50pt;
+	top             : 367.50pt;
+	width           : 546.00pt;
+	height          :  27.75pt;
+	}
+a#a12               { /* Pool Location: Indiana U... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	}
+em#e11              { /* Email:  dananodeada@gmai... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 397.50pt;
 	width           : 546.00pt;
 	height          :  16.50pt;
 	}
-div#e7              { /* Email:  dananodeada@gmai... */
-	position        : absolute;
-	left            :  56.25pt;
-	top             : 274.50pt;
-	width           : 546.00pt;
-	height          :  16.50pt;
+a#a11               { /* Email:  dananodeada@gmai... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
 	}
-span#e6             { /* images/preview001001.jpg */
-	background      : transparent url(images/preview001001.jpg) no-repeat top left;
+span#e10            { /* images/dnnd1001001.jpg */
+	background      : transparent url(images/dnnd1001001.jpg) no-repeat top left;
 	position        : absolute;
-	left            : 504.75pt;
-	top             : 315.00pt;
+	left            : 487.50pt;
+	top             : 420.00pt;
 	width           : 150.00pt;
 	height          : 165.00pt;
 	}
-div#e5              { /* 2- Buy Cardano, Ada, int... */
+em#e9               { /* 2- Buy Cardano, Ada, int... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
 	position        : absolute;
-	left            :  24.75pt;
-	top             : 357.75pt;
+	left            :  30.00pt;
+	top             : 472.50pt;
 	width           : 473.25pt;
 	height          :  19.50pt;
 	}
-div#e4              { /* 3- Download Cardano wall... */
+em#e8               { /* 3- Download Cardano wall... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
 	position        : absolute;
-	left            :  25.50pt;
-	top             : 378.00pt;
+	left            :  30.00pt;
+	top             : 502.50pt;
 	width           : 473.25pt;
 	height          :  19.50pt;
 	}
-div#e3              { /* 4- Transfer Ada from you... */
+a#a8                { /* 3- Download Cardano wall... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	}
+em#e7               { /* 4- Transfer Ada from you... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
 	position        : absolute;
-	left            :  25.50pt;
-	top             : 397.50pt;
+	left            :  30.00pt;
+	top             : 532.50pt;
 	width           : 473.25pt;
 	height          :  19.50pt;
 	}
-div#e2              { /* Test a transfer with sma... */
+em#e6               { /* Test a transfer with sma... */
+	font            : 10pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
 	position        : absolute;
-	left            :  42.75pt;
-	top             : 414.75pt;
+	left            :  45.00pt;
+	top             : 547.50pt;
 	width           : 457.50pt;
 	height          :  22.50pt;
 	}
-div#e1              { /* 5- In your Yoroi wallet,... */
+em#e5               { /* 5- In your Yoroi wallet,... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
 	position        : absolute;
-	left            :  27.75pt;
-	top             : 433.50pt;
+	left            :  30.00pt;
+	top             : 570.00pt;
 	width           : 473.25pt;
 	height          :  36.75pt;
+	}
+a#a5                { /* 5- In your Yoroi wallet,... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	}
+em#e4               { /* Verify DNND with pool.ve... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 277.50pt;
+	width           : 546.00pt;
+	height          :  16.50pt;
+	}
+a#a4                { /* Verify DNND with pool.ve... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	}
+em#e3               { /* DNND in detail on AdaSta... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 307.50pt;
+	width           : 546.00pt;
+	height          :  18.00pt;
+	}
+a#a3                { /* DNND in detail on AdaSta... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	}
+em#e2               { /* DNND in detail on pool.p... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 337.50pt;
+	width           : 546.00pt;
+	height          :  18.00pt;
+	}
+a#a2                { /* DNND in detail on pool.p... */
+	font            : 12pt 'Malgun Gothic';
+	color           : #000000;
+	}
+div#e1              { /* DANA NODE POOL\ \DNND */
+	position        : absolute;
+	left            : 165.00pt;
+	top             :  15.00pt;
+	width           : 330.75pt;
+	height          :  60.75pt;
 	}
 div#page            { /* Page Holder */
 	background-color: #c0c0c0;
 	position        : relative;
 	width           : 675.00pt;
-	height          : 525.00pt;
+	height          : 825.00pt;
 	text-align      : left;
 	margin-left     : auto;
 	margin-right    : auto;
